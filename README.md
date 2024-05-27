@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on stuffs that sounds interesting<br>I'm looking for help with Real time experiencing software creation<br>I'm currently learning web and chatbot development<br>Ask me about any logical obstructions<br>
-
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohan._24) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mohan_rengaraju) 
