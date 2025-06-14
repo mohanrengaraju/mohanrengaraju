@@ -1,16 +1,21 @@
-## Hi there 👋
+ Hi there 👋
+ 👋 Hello! I'm Mohan
+🎯 Aspiring AI & Full-Stack Developer| Passionate about Deep Learning, Artificial Intelligence, and Data Analysis
 
-<!--
-**mohanrengaraju/mohanrengaraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm a tech enthusiast with a strong inclination toward solving real-world problems using cutting-edge technologies. My core interests lie in:
+- 🧠 Deep Learning Networks
+- 🤖 Artificial Intelligence
+- 📊 Data Analysis & Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently expanding my skills in MERN Stack Development (MongoDB, Express.js, React, Node.js) to bridge the gap between intelligent systems and full-stack applications.
+
+ 👨‍💻 I’m Currently Working On
+- Diving deeper into **Neural Networks** and their applications in Computer Vision and NLP.
+- Building end-to-end full-stack web applications using the MERN stack.
+- Exploring AI-powered systems for smart automation and predictive analytics.
+  
+## 🤝 Looking to Collaborate On
+- Real-time, impactful tech projects in the field of AI, Deep Learning, or Web Development
+- Open-source contributions focused on intelligent systems and data-driven solutions
