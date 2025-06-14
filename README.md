@@ -1,5 +1,4 @@
- Hi there 👋
- 👋 Hello! I'm Mohan
+ Hi there 👋 I'm Mohan
 🎯 Aspiring AI & Full-Stack Developer| Passionate about Deep Learning, Artificial Intelligence, and Data Analysis
 
 🚀 About Me
